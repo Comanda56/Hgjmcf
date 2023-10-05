@@ -40,7 +40,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀ�
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/AnonymousX1025/StringGenBot/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/Comanda56/SESSION/StringGenBot/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -48,7 +48,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀ�
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/AnonymousX1025/StringGenBot && cd StringGenBot`
+`git clonehttps://github.com/Comanda56/SESSION-/StringGenBot && cd StringGenBot`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -65,7 +65,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://te.legra.ph/file/fa5b692e4ddb87559db17.jpg">
+  <img src="https://telegra.ph/file/71cdc3dfa1c0f0c258afb.jpg">
 </p>
 
 </details>
